@@ -1,0 +1,1 @@
+This app is a simulation to generate an array of random numbers. 5 numbers will be in an array and each number is range between 1 and 59. Each number is also compared with contents in the array, so no repeated number will be pushed.
